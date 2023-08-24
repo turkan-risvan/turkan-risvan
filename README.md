@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **turkanrisvan887@gmail.com**
 
-- ⚡ Fun fact **I am funy**
+//- ⚡ Fun fact **I am funy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
