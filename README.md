@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **Flutter projects**
 
-- 🌱 I’m currently learning **Flutter,C#**
+- 🌱 I’m currently learning **Flutter,C#,Kotlin**
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **turkanrisvan887@gmail.com**
 
-#- ⚡ Fun fact **I am funy**
+- ⚡ I love to code and learn all about it
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
