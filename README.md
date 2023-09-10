@@ -8,11 +8,11 @@
 <a href="[<LinkedInURL>](https://www.linkedin.com/in/t%C3%BCrkan-ri%C5%9Fvan-ba284019a/)">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:turkanrisvan887@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-- 🔭 I’m currently working on **Flutter projects**
+- 🔭 I’m currently working on **Flutter projects and Kotlin projects**
 
 - 🌱 I’m currently learning **Flutter,C#,Kotlin**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter,Kotlin**
 
 - 📫 How to reach me **turkanrisvan887@gmail.com**
 
