@@ -1,6 +1,6 @@
  
 <h1 align="center">Hi 👋, I'm Türkan Rişvan</h1>
-<h3 align="center">I am a Flutter developer passionate about software in Turkey.</h3>
+<h3 align="center">I am a Flutter developer and Android developer passionate about software in Turkey.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAM/coding-kira.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turkan-risvan&label=Profile%20views&color=0e75b6&style=flat" alt="turkan-risvan" /> </p>
